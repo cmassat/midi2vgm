@@ -58,3 +58,4 @@ AGPLv3
 
 ## Credits
 The `midi2vgm_opl3` is based on the [libADLMIDI](https://github.com/Wohlstand/libADLMIDI) project.
+This was forked from https://github.com/SudoMaker/midi2vgm
